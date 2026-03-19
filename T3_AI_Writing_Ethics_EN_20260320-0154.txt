@@ -1,0 +1,70 @@
+================================================================
+T3: AI Academic Writing — Ethics, Integrity & Tool Evaluation
+(Collected: 2026-03-20)
+================================================================
+
+[ACADEMIC PAPERS]
+
+1. Artificial Intelligence-Assisted Academic Writing:
+   Recommendations for Ethical Use
+   Source : PMC / PubMed (2025)
+   URL    : https://pmc.ncbi.nlm.nih.gov/articles/PMC12007126/
+   Summary: Lays out concrete ethical recommendations for researchers
+            using AI in academic writing. Covers disclosure requirements,
+            authorship criteria (AI cannot be an author), the necessity
+            of human vetting for accuracy, and how to document AI use
+            in Methods or Acknowledgements sections.
+
+2. Practical Considerations and Ethical Implications of Using
+   Artificial Intelligence in Writing Scientific Manuscripts
+   Source : PMC (2025)
+   URL    : https://pmc.ncbi.nlm.nih.gov/articles/PMC11838153/
+   Summary: Reviews practical scenarios where researchers use AI in
+            manuscript preparation and maps each to its ethical
+            implications. Addresses hallucination risk, fabricated
+            references, plagiarism detection limitations, and the
+            growing policy landscape across publishers.
+
+3. The Impact of Generative AI on Academic Integrity of Authentic
+   Assessments within a Higher Education Context
+   Source : British Journal of Educational Technology (BJET), 2025
+            Kofinas et al.
+   URL    : https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1111/bjet.13585
+   Summary: Empirical study in higher education examining how generative
+            AI challenges traditional notions of academic integrity.
+            Proposes a reframing of assessment design and institutional
+            policy to balance AI's benefits against risks of misuse,
+            ghost-writing, and erosion of deep learning.
+
+----------------------------------------------------------------
+
+[BLOGS / GUIDES]
+
+1. Ethical Use Cases of AI in Academic Writing:
+   A 2025 Guide for Students and Researchers
+   Source : Thesify Blog
+   URL    : https://www.thesify.ai/blog/ethical-use-cases-of-ai-in-academic-writing-a-2025-guide-for-students-and-researchers
+   Summary: Practical guide distinguishing acceptable AI use (grammar
+            correction, structural feedback, brainstorming) from
+            unacceptable use (full draft generation, fabricating
+            citations). Provides decision-tree-style guidance for
+            navigating institutional policies.
+
+2. New Ethical Framework to Help Navigate Use of AI
+   in Academic Research
+   Source : University of Oxford News (2024-11-13)
+   URL    : https://www.ox.ac.uk/news/2024-11-13-new-ethical-framework-help-navigate-use-ai-academic-research
+   Summary: Oxford University announces a principled ethical framework
+            for AI use in research. Identifies three core criteria:
+            human vetting and guaranteeing accuracy, ensuring substantial
+            human intellectual contribution, and transparent disclosure
+            of AI involvement.
+
+3. Ethical AI Writing Guidelines 2025: Best Practices for Integrity
+   Source : Hastewire Blog
+   URL    : https://hastewire.com/blog/ethical-ai-writing-guidelines-2025-best-practices-for-integrity
+   Summary: Accessible overview of AI writing ethics aimed at a broad
+            audience. Covers best practices for transparency, avoiding
+            AI-generated misinformation, combining AI tools with human
+            critical thinking, and maintaining scholarly voice and
+            accountability.

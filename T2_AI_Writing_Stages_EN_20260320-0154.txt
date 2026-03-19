@@ -1,0 +1,65 @@
+================================================================
+T2: AI Tools for Specific Stages of Academic Writing
+    (Literature Review · Drafting · Editing)
+(Collected: 2026-03-20)
+================================================================
+
+[ACADEMIC PAPERS]
+
+1. AI-Assisted Tools for Scientific Review Writing:
+   Opportunities and Cautions
+   Source : ACS Applied Materials & Interfaces, 2025
+   URL    : https://pubs.acs.org/doi/10.1021/acsami.5c08837
+   Summary: Evaluates AI tools specifically designed to assist with writing
+            scientific review articles. Identifies concrete opportunities
+            (literature synthesis, gap identification) while flagging
+            cautions around hallucination, misattribution, and over-reliance
+            that can compromise review quality.
+
+2. Artificial Intelligence Tools for Research Writing
+   Source : TESOL/EJ (EJ1478000), ERIC Full Text
+   URL    : https://files.eric.ed.gov/fulltext/EJ1478000.pdf
+   Summary: Surveys a broad set of AI tools applicable to different stages
+            of research writing. Offers practical tips for educators and
+            researchers, with stage-by-stage analysis of where AI adds
+            value and where human judgment remains essential.
+
+3. ChatGPT as an Academic Writing Tool: Factors Influencing
+   Researchers' Intention to Write Manuscripts Using Generative AI
+   Source : Manuel Garcia Lab / Peer-reviewed article
+   URL    : https://manuelgarcia.info/publication/chatgpt-research-writing
+   Summary: Survey-based study examining which factors (ease of use,
+            perceived usefulness, trust, institutional norms) predict
+            whether researchers intend to use ChatGPT for manuscript
+            writing. Identifies stage-specific adoption patterns across
+            drafting and revision tasks.
+
+----------------------------------------------------------------
+
+[BLOGS / GUIDES]
+
+1. AI Tools for Literature Review: Complete Guide [2025]
+   Source : Anara Blog
+   URL    : https://anara.com/blog/ai-for-literature-review
+   Summary: Comprehensive guide to AI-powered tools (Elicit, Semantic
+            Scholar, Connected Papers, Anara) for the literature review
+            stage. Covers search strategies, building a personal AI-
+            searchable library, and chatting with documents to extract
+            key insights.
+
+2. How to Use AI for Literature Review in 2026
+   Source : The Effortless Academic (Blog)
+   URL    : https://effortlessacademic.com/how-to-use-ai-for-your-literature-review-in-2024/
+   Summary: Step-by-step guide focused on the literature review stage:
+            using Litmaps and ResearchRabbit for citation mapping,
+            ChatGPT for abstract screening, and AI PDF tools for rapid
+            paper reading. Emphasizes human verification of AI outputs.
+
+3. Best AI Tools to Improve Academic Writing 2026
+   Source : Thesify Blog
+   URL    : https://www.thesify.ai/blog/best-ai-tools-improve-academic-writing-2026
+   Summary: Curated, stage-annotated list of AI tools for academic
+            writing in 2026. Organizes tools by function (drafting,
+            grammar, citation, editing) with practical guidance on
+            combining tools — e.g., draft with ChatGPT, polish with
+            Writefull, finalize with Paperpal.

@@ -1,0 +1,62 @@
+================================================================
+T1: AI-Assisted Academic Writing — Overall Workflow
+(Collected: 2026-03-20)
+================================================================
+
+[ACADEMIC PAPERS]
+
+1. The impact of generative AI on academic reading and writing:
+   a synthesis of recent evidence (2023–2025)
+   Source : Frontiers in Education, 2025
+   URL    : https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1711718/full
+   Summary: A synthesis of empirical studies published 2023–2025 examining
+            how generative AI tools affect academic reading and writing
+            practices. Reviews evidence on efficiency gains, quality
+            trade-offs, and behavioral shifts among students and researchers.
+
+2. This Paper Was Written with the Help of ChatGPT: Exploring the
+   Consequences of AI-Driven Academic Writing on Scholarly Practices
+   Source : EDM 2024 (Educational Data Mining), Short Papers
+   URL    : https://educationaldatamining.org/edm2024/proceedings/2024.EDM-short-papers.55/index.html
+   Summary: Reflexive study in which the authors themselves used ChatGPT
+            throughout the writing process and analyze the consequences for
+            scholarly conventions, voice, and attribution. Raises questions
+            about what AI-assisted authorship means for academic norms.
+
+3. ChatGPT in Academic Writing: A Scientometric Analysis of Literature
+   Published Between 2022 and 2023
+   Source : Sage Journals (Journal of Scholarly Publishing), 2025
+            Gergely Ferenc Lendvai
+   URL    : https://journals.sagepub.com/doi/10.1177/15562646251350203
+   Summary: Scientometric mapping of the rapidly growing body of literature
+            on ChatGPT and academic writing. Identifies dominant themes,
+            key journals, and citation networks in the field from its
+            emergence through 2023.
+
+----------------------------------------------------------------
+
+[BLOGS / GUIDES]
+
+1. A Complete Guide to Using AI for Academic Writing
+   Source : The Effortless Academic (Blog)
+   URL    : https://effortlessacademic.com/a-complete-guide-to-using-ai-for-academic-writing/
+   Summary: End-to-end practical guide covering how to use AI tools at
+            every stage — note collection, finding citations via Consensus
+            GPT, skimming abstracts, building writing assistants to
+            assemble drafts, and final revision workflows.
+
+2. A Step-by-Step Guide to Writing a Research Paper with AI
+   Source : Yomu AI Blog
+   URL    : https://www.yomu.ai/blog/a-step-by-step-guide-to-writing-a-research-paper-with-ai
+   Summary: Structured walkthrough for researchers on using AI to break a
+            paper into core sections (Introduction, Literature Review,
+            Methodology, Results, Conclusion) and progressively build the
+            manuscript with AI assistance.
+
+3. How to Write a Scientific Paper in 2025: Ideas First
+   Source : Thesify Blog
+   URL    : https://www.thesify.ai/blog/write-scientific-paper-2025-ideas-first
+   Summary: Argues for an "ideas-first" philosophy — using AI to clarify
+            and stress-test the core argument before drafting begins.
+            Covers practical prompting strategies and ethical framing for
+            responsible AI use in scientific writing.

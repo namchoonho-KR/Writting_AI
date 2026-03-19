@@ -1,0 +1,56 @@
+================================================================
+T2: 학술 글쓰기 단계별 AI 도구
+    (문헌검토 · 초고 작성 · 편집)
+(수집일: 2026-03-20)
+================================================================
+
+[학술논문]
+
+1. 과학 리뷰 논문 작성을 위한 AI 보조 도구: 기회와 주의사항
+   출처 : ACS Applied Materials & Interfaces, 2025
+   URL  : https://pubs.acs.org/doi/10.1021/acsami.5c08837
+   요약 : 과학 리뷰 논문 작성에 특화된 AI 도구들을 평가한다. 문헌 종합 및
+          연구 공백 파악 등 구체적인 기회를 제시하는 한편, 품질을 저해할 수 있는
+          환각(hallucination), 오귀속(misattribution), 과의존 문제에 대한
+          경고도 함께 다룬다.
+
+2. 연구 글쓰기를 위한 인공지능 도구
+   출처 : TESOL/EJ (EJ1478000), ERIC 전문
+   URL  : https://files.eric.ed.gov/fulltext/EJ1478000.pdf
+   요약 : 연구 글쓰기의 여러 단계에 적용 가능한 다양한 AI 도구를 개관한다.
+          교육자와 연구자를 위한 실용적 팁을 제공하며, 단계별로 AI가 가치를
+          더하는 부분과 인간의 판단이 필수적으로 남아야 하는 부분을 분석한다.
+
+3. 학술 글쓰기 도구로서의 ChatGPT: 생성형 AI를 활용한 원고 작성 의도에
+   영향을 미치는 요인
+   출처 : Manuel Garcia Lab / 동료심사 논문
+   URL  : https://manuelgarcia.info/publication/chatgpt-research-writing
+   요약 : 연구자들이 원고 작성에 ChatGPT를 사용할 의향에 어떤 요인(사용 용이성,
+          유용성 인식, 신뢰, 기관 규범)이 영향을 미치는지를 설문조사로 분석한다.
+          초고 작성과 수정 단계별 AI 채택 패턴을 파악한다.
+
+----------------------------------------------------------------
+
+[블로그 / 가이드]
+
+1. 문헌검토를 위한 AI 도구 완전 가이드 [2025]
+   출처 : Anara 블로그
+   URL  : https://anara.com/blog/ai-for-literature-review
+   요약 : 문헌검토 단계에 특화된 AI 도구(Elicit, Semantic Scholar,
+          Connected Papers, Anara)의 종합 가이드. 검색 전략, 개인
+          AI 검색 가능 라이브러리 구축, 문서와의 대화를 통한 핵심 인사이트
+          추출 방법을 다룬다.
+
+2. 2026년 문헌검토에 AI를 활용하는 방법
+   출처 : The Effortless Academic (블로그)
+   URL  : https://effortlessacademic.com/how-to-use-ai-for-your-literature-review-in-2024/
+   요약 : 문헌검토 단계에 집중한 단계별 가이드. Litmaps·ResearchRabbit로
+          인용 지도 구축, ChatGPT로 초록 스크리닝, AI PDF 도구로 논문 빠르게
+          읽기를 다루며 AI 결과물의 인간 검증을 강조한다.
+
+3. 2026년 학술 글쓰기 향상을 위한 최고의 AI 도구
+   출처 : Thesify 블로그
+   URL  : https://www.thesify.ai/blog/best-ai-tools-improve-academic-writing-2026
+   요약 : 기능별(초고 작성·문법·인용·편집)로 정리된 2026년 학술 글쓰기 AI 도구
+          목록. 도구 조합 사용 실용 지침도 제공한다(예: ChatGPT로 초고,
+          Writefull로 다듬기, Paperpal로 최종 완성).

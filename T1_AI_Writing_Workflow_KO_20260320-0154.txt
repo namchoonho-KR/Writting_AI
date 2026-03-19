@@ -1,0 +1,53 @@
+================================================================
+T1: AI 보조 학술논문 작성 — 전체 워크플로
+(수집일: 2026-03-20)
+================================================================
+
+[학술논문]
+
+1. 생성형 AI가 학술 읽기·쓰기에 미치는 영향: 2023~2025년 연구 종합
+   출처 : Frontiers in Education, 2025
+   URL  : https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1711718/full
+   요약 : 2023~2025년에 발표된 실증 연구들을 종합 검토한 논문. 생성형 AI 도구가
+          학술적 읽기·쓰기 관행에 미치는 영향을 분석한다. 효율성 향상, 품질 변화,
+          학생과 연구자의 행동 변화에 관한 증거를 검토한다.
+
+2. 이 논문은 ChatGPT의 도움을 받아 작성되었습니다: AI 기반 학술 글쓰기가
+   학문적 실천에 미치는 결과 탐색
+   출처 : EDM 2024(Educational Data Mining), 단편논문
+   URL  : https://educationaldatamining.org/edm2024/proceedings/2024.EDM-short-papers.55/index.html
+   요약 : 저자 스스로 논문 전 과정에서 ChatGPT를 사용하고 그 결과를 분석한
+          반성적(reflexive) 연구. 학문적 관례, 저자의 목소리, 기여 귀속 측면에서
+          AI 보조 저술이 무엇을 의미하는지 문제를 제기한다.
+
+3. 학술 글쓰기에서의 ChatGPT: 2022~2023년 발표 문헌의 계량서지학적 분석
+   출처 : Sage Journals (Journal of Scholarly Publishing), 2025
+          저자: Gergely Ferenc Lendvai
+   URL  : https://journals.sagepub.com/doi/10.1177/15562646251350203
+   요약 : ChatGPT와 학술 글쓰기에 관한 급증하는 문헌을 계량서지학적으로
+          지도화한 논문. 주요 주제, 핵심 학술지, 인용 네트워크를 파악하고
+          이 분야가 2022~2023년 사이 어떻게 형성되었는지를 분석한다.
+
+----------------------------------------------------------------
+
+[블로그 / 가이드]
+
+1. AI를 활용한 학술 글쓰기 완전 가이드
+   출처 : The Effortless Academic (블로그)
+   URL  : https://effortlessacademic.com/a-complete-guide-to-using-ai-for-academic-writing/
+   요약 : 학술 글쓰기의 모든 단계를 다루는 실용적 종합 가이드. 노트 수집,
+          Consensus GPT로 인용 찾기, 초록 스크리닝, 작성 보조 AI 구성,
+          최종 수정 워크플로까지 단계별로 설명한다.
+
+2. AI로 연구논문 작성하기: 단계별 가이드
+   출처 : Yomu AI 블로그
+   URL  : https://www.yomu.ai/blog/a-step-by-step-guide-to-writing-a-research-paper-with-ai
+   요약 : AI를 활용해 논문을 서론, 문헌검토, 방법론, 결과, 결론 등 핵심 섹션으로
+          나누고 단계적으로 원고를 구성하는 방법을 안내하는 구조화된 실용 가이드.
+
+3. 2025년 과학논문 작성법: 아이디어 우선(Ideas First)
+   출처 : Thesify 블로그
+   URL  : https://www.thesify.ai/blog/write-scientific-paper-2025-ideas-first
+   요약 : 초고 작성에 앞서 AI를 활용해 핵심 주장을 명확히 하고 검증하는
+          '아이디어 우선' 철학을 주장한다. 실용적인 프롬프트 전략과 과학 글쓰기에서
+          AI를 책임감 있게 사용하기 위한 윤리적 틀을 함께 제시한다.
